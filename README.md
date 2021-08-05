@@ -7,7 +7,8 @@ Digi-key.<br>
 Honhai Precision.<br>
 DFRobot.<br>
 
-Components.<br>
+Components
+====
 Motors.<br>
 Torque.<br>
 Power.<br>
