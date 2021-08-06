@@ -1,6 +1,6 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
 
-
+開業時間, 機體完成時間: 2045年.
 Brand and Manufacturer
 ====
 Digi-key.<br>
