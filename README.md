@@ -1,6 +1,7 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
 
 預計營業時間, 機體完成時間: 2045年.<br>
+
 Brand and Manufacturer
 ====
 Digi-key.<br>
