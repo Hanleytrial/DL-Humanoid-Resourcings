@@ -1,6 +1,6 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
 
-預計營業時間, 機體完成時間: 2045年.<br>
+預計開機時間, 機體完成時間: 2045年.<br>
 
 Brand and Manufacturer
 ====
@@ -26,4 +26,6 @@ Cleaner Services.
 Pass
 ====
 Asimo<br>
-Documents:<>
+Documents:<br>
+
+
