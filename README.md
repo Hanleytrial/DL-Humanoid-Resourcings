@@ -1,6 +1,7 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
 
 預計開機時間, 機體完成時間: 2045年.<br>
+定位: 未知.<br>
 
 Brand and Manufacturer
 ====
