@@ -1,7 +1,7 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
 
 
-BRAND and supplier of Electronics component
+Brand and Manufacturer
 ====
 Digi-key.<br>
 Honhai Precision.<br>
