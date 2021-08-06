@@ -11,8 +11,10 @@ Components
 ====
 Motors.<br>
 Torque.<br>
-Power.<br>
+Power Supply<br>
 RF.<br>
+Wifi/Sim module.<br>
+Adhoc module.<br>
 High-voltage connector and motors.<br>
 Interconnects.<br>
 
