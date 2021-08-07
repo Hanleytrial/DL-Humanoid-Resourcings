@@ -6,7 +6,7 @@
 Brand and Manufacturer
 ====
 Digi-key.<br>
-Honhai Precision.<br>
+h.<br>
 DFRobot.<br>
 
 Components
