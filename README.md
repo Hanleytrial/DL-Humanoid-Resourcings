@@ -1,5 +1,11 @@
 # Humanoid-technical-resourcings-note 類人描述資源筆記
+時機
+====
 2045.<br>
+
+硬件成本
+====
+2021年新台幣5萬元.<br>
 
 Brand and Manufacturer
 ====
