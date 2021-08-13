@@ -24,8 +24,9 @@ Components
 Motors.<br>
 Torque.<br>
 Power Supply<br>
-RF.(Antenna)<br>
-Wifi/Sim.<br>
+ESP8266(Wifi)<br>
+Sim Card module<br>
+Antenna.<br>
 Adhoc module.<br>
 High-voltage connector and motors.<br>
 Motor Drivers.<br>
