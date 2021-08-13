@@ -1,5 +1,5 @@
 # Humanoid-technical-resourcings-note 類人描述資源筆記
-時機
+開機
 ====
 2045.<br>
 
@@ -30,11 +30,13 @@ High-voltage connector and motors.<br>
 Motor Drivers.<br>
 Interconnects.<br>
 
-Objective 目的
+Objective 目的.
 ====
-Cleaner Services.
+依時間順序.
+In/Outdoor Hygiene (清潔) Services.
 Cook Services.
 Mobile Services.
+Accompany and Entertaining.
 
 Passed references
 ====
