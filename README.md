@@ -1,4 +1,5 @@
 # Humanoid-technical-resourcings-note 類人描述資源筆記
+重評估: 是.
 開機
 ====
 西元2045.<br>
