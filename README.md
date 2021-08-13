@@ -24,7 +24,7 @@ Components
 Motors.<br>
 Torque.<br>
 Power Supply<br>
-RF.<br>
+RF.(Antenna)<br>
 Wifi/Sim.<br>
 Adhoc module.<br>
 High-voltage connector and motors.<br>
