@@ -1,7 +1,7 @@
 # Humanoid-technical-resourcings-note 類人描述資源筆記
 開機
 ====
-2045.<br>
+西元2045.<br>
 
 硬件打樣成本
 ====
