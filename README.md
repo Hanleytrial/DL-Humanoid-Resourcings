@@ -1,8 +1,8 @@
 # Humanoid-technical-resourcings-note 類人描述資源筆記
-重評估: 定季.<br><br>
+重評估: 季節性.<br><br>
 開機
 ====
-西元2045.<br>
+西元2032.<br>
 
 硬件打樣成本
 ====
