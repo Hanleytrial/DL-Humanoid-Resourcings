@@ -7,11 +7,12 @@
 ====
 2021年新台幣3萬5元.<br>
 
-Brand and Manufacturer
+Brand, Sales, and Manufacturer
 ====
 Digi-key.<br>
 h.<br>
 DFRobot.<br>
+蝦皮.<br>
 
 ====
 圖解馬達入門.
