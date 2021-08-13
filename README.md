@@ -1,7 +1,5 @@
 # Humanoid-technical-resourcings-note 類人技術資源筆記
-
-預計, 開機時間: 2045年.<br>
-定位: 未知. EMS, IDM, IIDM, OEM<br>
+2045.<br>
 
 Brand and Manufacturer
 ====
