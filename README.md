@@ -32,11 +32,11 @@ Interconnects.<br>
 
 Objective 目的.
 ====
-依時間順序.
-In/Outdoor Hygiene (清潔) Services.
-Cook Services.
-Mobile Services.
-Accompany and Entertaining.
+依時間順序.<br>
+In/Outdoor Hygiene (清潔) Services.<br>
+Cook Services.<br>
+Mobile Services.<br>
+Accompany and Entertaining.<br>
 
 Passed references
 ====
