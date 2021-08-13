@@ -35,8 +35,8 @@ Objective 目的.
 ====
 依時間順序.<br>
 In/Outdoor Hygiene (清潔) Services.<br>
-Cook Services.<br>
-Mobile Services.<br>
+Simple Cook Services.<br>
+Street Walk.<br>
 Accompany and Entertaining.<br>
 
 Passed references
