@@ -19,7 +19,7 @@ DFRobot.<br>
 圖解馬達入門.
 機構學 版五.
 
-Components
+Components for common
 ====
 Motors.<br>
 Torque.<br>
@@ -31,6 +31,12 @@ Adhoc module.<br>
 High-voltage connector and motors.<br>
 Motor Drivers.<br>
 Interconnects.<br>
+
+Bipedal Part.
+====
+Motors:<br>
+Actuator:<br>
+Sensor:<br>
 
 Application layer
 ====
