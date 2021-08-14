@@ -27,10 +27,14 @@ Power Supply<br>
 ESP8266(Wifi) and Antenna.<br>
 4G/LTE sim module. SIM7600X.<br>
 Antenna for Radio.<br>
-Adhoc module.<br>
+Ad Hoc module.<br>
 High-voltage connector and motors.<br>
 Motor Drivers.<br>
 Interconnects.<br>
+
+Arm
+====
+
 
 Bipedal Part.
 ====
