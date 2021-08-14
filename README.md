@@ -53,7 +53,7 @@ Sensor:<br>
 
 模式
 ====
-螺旋翼/網格 (飛行模式)
+螺旋翼/網格 (飛行模式/)
 
 Application layer
 ====
