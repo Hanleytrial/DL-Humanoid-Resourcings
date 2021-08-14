@@ -4,6 +4,10 @@
 ====
 2032<br>
 
+思想
+====
+All-in-one with mode selection.
+
 硬件打樣成本
 ====
 2021年新台幣3萬5元.<br>
@@ -51,9 +55,9 @@ Motors:<br>
 Actuator:<br>
 Sensor:<br>
 
-模式
+Transformation 模式
 ====
-螺旋翼/網格 (飛行模式/)
+螺旋翼/網格 (飛行模式/Drone Mode)
 
 Application layer
 ====
