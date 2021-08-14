@@ -1,4 +1,4 @@
-# Humanoid-describing-resourcing-note 類人描述資源筆記
+# Humanoid-describing-resourcing 類人描述資源筆記
 重評估: 季節性.<br><br>
 開機
 ====
