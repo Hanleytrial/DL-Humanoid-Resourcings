@@ -42,7 +42,7 @@ Arm
 
 Materials 材料
 ====
-8080
+6061, 純鋁
 
 Bipedal Part.
 ====
