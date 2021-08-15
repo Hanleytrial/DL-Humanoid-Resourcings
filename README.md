@@ -74,6 +74,7 @@ In/Outdoor Hygiene (清潔) Services.<br>
 Simple Cook Services.<br>
 Street Walk.<br>
 Accompany and Entertaining.<br>
+高適性, 高彈性需求, 需要各層級訊息的低延遲配合.
 
 Passed references
 ====
