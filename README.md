@@ -54,9 +54,10 @@ Motors.<br>
 Torque.<br>
 Power Supply<br>
 Low/High Volt WireHarness. <br>
-ESP8266(Wifi) and Antenna.<br>
+ESP8266(Wifi).<br>
 4G/LTE sim module. SIM7600X.<br>
 Antenna for Radio.<br>
+External Antenna.<br>
 Ad Hoc module.<br>
 High-voltage connector and motors.<br>
 Motor Drivers.<br>
