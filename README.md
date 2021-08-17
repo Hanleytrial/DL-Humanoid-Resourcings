@@ -45,7 +45,7 @@ Natural Language Processing. <br>
 Middleware/Session Layer.
 ====
 ROS.<br>
-Protocol: Lwm2m<br>
+Protocol: lwm2m<br>
 
 
 Components for common
@@ -53,6 +53,7 @@ Components for common
 Motors.<br>
 Torque.<br>
 Power Supply<br>
+Low/High Volt WireHarness. <br>
 ESP8266(Wifi) and Antenna.<br>
 4G/LTE sim module. SIM7600X.<br>
 Antenna for Radio.<br>
@@ -74,15 +75,15 @@ Soft:<br>
 
 Bipedal Part.
 ====
-Motors:<br>
-Actuator:<br>
-Sensor:<br>
+Motors: <br>
+Actuator: <br>
+Sensor: <br>
 
 Transformation 模式
 ====
 Edge mode in default. (Better for Privacy Protection) <br>
 Cloud mode for system upgrade and update. <br>
-Hygiene Career Mode. (清潔事業模式) <br>
+Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
 
 
@@ -110,6 +111,5 @@ Documents:<br>
 
 Legal Statement.
 ====
-
 
 
