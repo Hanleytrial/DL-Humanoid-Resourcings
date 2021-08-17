@@ -1,7 +1,7 @@
-# Humanoid-describing-resourcing 類人描述資源筆記
+# Humanoid-resourcing-and-its-subjective-descrition. 類人描述資源筆記
 開機
 ====
-2032<br>
+2044<br>
 
 思想
 ====
@@ -20,8 +20,8 @@ DFRobot.<br>
 
 Books
 ====
-圖解馬達入門.
-機構學 版五.
+圖解馬達入門. <br>
+機構學 版五. <br>
 
 Terms
 ====
@@ -29,8 +29,8 @@ Cyber-Physical Systems.<br>
 
 MCU
 ====
-Nvidia Jetson series.
-Raspberry series.
+Nvidia Jetson series. <br>
+Raspberry series. <br>
 
 Humanoid Firmware (The BIOS of Humanoid)
 ====
@@ -38,8 +38,8 @@ Humanoid Firmware (The BIOS of Humanoid)
 
 Brain
 ====
-Deep Learning with Pytorch.
-Natural Language Processing.
+Deep Learning with Pytorch. <br>
+Natural Language Processing. <br>
 
 
 Middleware Layer.
