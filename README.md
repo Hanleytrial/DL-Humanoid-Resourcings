@@ -42,9 +42,10 @@ Deep Learning with Pytorch. <br>
 Natural Language Processing. <br>
 
 
-Middleware Layer.
+Middleware/Session Layer.
 ====
-
+ROS.<br>
+Protocol: Lwm2m<br>
 
 
 Components for common
