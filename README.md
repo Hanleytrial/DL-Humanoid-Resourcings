@@ -27,6 +27,24 @@ Terms
 ====
 Cyber-Physical Systems.<br>
 
+MCU
+====
+Nvidia Jetson series.
+Raspberry series.
+
+Humanoid Firmware (The BIOS of Humanoid)
+====
+
+
+Brain
+====
+Deep Learning with Pytorch.
+Natural Language Processing.
+
+
+
+
+
 Components for common
 ====
 Motors.<br>
@@ -41,7 +59,7 @@ Motor Drivers.<br>
 Interconnects.<br>
 三軸加速度傳感器.<br>
 
-Arm
+Arm Part.
 ====
 
 Materials 材料
@@ -56,9 +74,13 @@ Sensor:<br>
 
 Transformation 模式
 ====
+Edge mode in default. (Better for Privacy Protection)
+Cloud mode for system upgrade and update.
+Hygiene Career Mode. (清潔事業模式)
 螺旋翼/網格 (飛行模式/Drone Mode)
 
-Application layer
+
+Application layer (UXUI for User Terminal, App)
 ====
 Godot Engine.<br>
 
@@ -79,5 +101,9 @@ Passed references
 ====
 Asimo<br>
 Documents:<br>
+
+Legal Statement.
+====
+
 
 
