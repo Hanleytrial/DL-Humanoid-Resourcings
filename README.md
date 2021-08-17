@@ -66,7 +66,10 @@ Arm Part.
 
 Materials 材料
 ====
-6061, 純鋁
+Hard:<br>
+6061, 純鋁<br>
+
+Soft:<br>
 
 Bipedal Part.
 ====
