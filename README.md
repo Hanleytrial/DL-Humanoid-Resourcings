@@ -47,6 +47,9 @@ Middleware/Session Layer.
 ====
 ROS.<br>
 Protocol: lwm2m<br>
+LWM2M:<br>
+C library: Anjay.<br>
+Node.js search from NPM.<br>
 
 
 Components for common
