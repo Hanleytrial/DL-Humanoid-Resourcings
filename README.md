@@ -116,6 +116,5 @@ Legal Statement.
 
 測試地
 ====
-農業用地.
 
 
