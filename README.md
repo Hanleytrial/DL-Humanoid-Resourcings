@@ -68,6 +68,11 @@ Interconnects.<br>
 Sensors
 ====
 Hardness detection.<br>
+RPiLader, TF2.<br>
+
+Computer Vision
+====
+OpenCV.
 
 Arm Part.
 ====
