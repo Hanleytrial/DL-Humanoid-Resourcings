@@ -101,7 +101,7 @@ Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
 
 
-Application layer (UXUI for User Terminal, App)
+Application layer (UXUI for User Terminal, Phone App Control and Monitoring)
 ====
 Godot Engine.<br>
 
