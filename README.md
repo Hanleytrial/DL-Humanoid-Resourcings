@@ -7,9 +7,9 @@
 ====
 All-in-one with mode selection.
 
-硬件打樣成本
+硬件打樣成本(不含人事, 軟體)
 ====
-2021年新台幣3萬5元.<br>
+2021年現鈔價值的新台幣3萬5千元.<br>
 
 Brand, Sales, and Manufacturer
 ====
@@ -96,6 +96,7 @@ Sensor: <br>
 Transformation 模式
 ====
 Edge mode in default. (Better for Privacy Protection) <br>
+Basic action and land mobile in default. <br>
 Cloud mode for system upgrade and update. <br>
 Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
