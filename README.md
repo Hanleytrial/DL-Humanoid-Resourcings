@@ -65,6 +65,10 @@ Motor Drivers.<br>
 Interconnects.<br>
 三軸加速度傳感器.<br>
 
+Sensors
+====
+Hardness detection.<br>
+
 Arm Part.
 ====
 
@@ -114,8 +118,10 @@ Documents:<br>
 Legal Statement.
 ====
 
+驗證 Testimony.
+====
 
 測試地
 ====
-
+農地.
 
