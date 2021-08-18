@@ -71,7 +71,7 @@ Interconnects.<br>
 Sensors
 ====
 Hardness detection.<br>
-RPiLader, TF2.<br>
+Surrounding : RPiLader, TF2.<br>
 
 Computer Vision
 ====
