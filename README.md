@@ -49,7 +49,7 @@ Humanoid Firmware (The BIOS  Humanoid's motherboard)
 
 Brain
 ====
-Deep Learning with Pytorch. <br>
+Deep Learning to multiple features with Pytorch. <br>
 Natural Language Processing. <br>
 
 
