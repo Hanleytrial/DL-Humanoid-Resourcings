@@ -40,6 +40,7 @@ Sound Input/Output
 電機/電控硬體 (*)
 ====
 Motor Drive Control: <br>
+PCB Layout: <br>
 
 
 Humanoid Firmware (The BIOS of Humanoid's motherboard)
