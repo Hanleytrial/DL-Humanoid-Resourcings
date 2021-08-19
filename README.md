@@ -1,7 +1,7 @@
 # Humanoid-resourcing-and-its-subjective-descrition. 類人描述資源筆記
-開機
+開機時間
 ====
-2044<br>
+西元2044<br>
 
 思想
 ====
@@ -55,7 +55,7 @@ Mechanism
 ====
 8 DoF
 
-Components for common
+Components in common
 ====
 Motors.<br>
 Torque.<br>
