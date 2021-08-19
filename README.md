@@ -25,7 +25,7 @@ Books
 
 Terms
 ====
-Cyber-Physical Systems.<br>
+Cyber-Physical System.<br>
 
 MCU
 ====
@@ -33,7 +33,7 @@ Nvidia Jetson series. <br>
 Raspberry series. <br>
 Customization with ARM core.<br>
 
-Humanoid Firmware (The BIOS of Humanoid)
+Humanoid Firmware (The BIOS of Humanoid's motherboard)
 ====
 
 
