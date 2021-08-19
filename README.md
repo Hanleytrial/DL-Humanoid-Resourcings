@@ -37,6 +37,10 @@ Customization with ARM core.<br>
 Sound Input/Output
 ====
 
+電機/電控硬體 (*)
+====
+Motor Drive Control: <br>
+
 
 Humanoid Firmware (The BIOS of Humanoid's motherboard)
 ====
