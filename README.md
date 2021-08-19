@@ -9,7 +9,7 @@ All-in-one with mode selection.
 
 Site
 ====
-
+不想努力了.
 
 硬件打樣預估成本(物料成本, 不含人事, 軟體)
 ====
