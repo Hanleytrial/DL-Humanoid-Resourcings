@@ -50,7 +50,8 @@ Humanoid Firmware (The BIOS  Humanoid's motherboard)
 Brain
 ====
 Deep Learning to multiple features with Pytorch. <br>
-Natural Language Processing. <br>
+Natural Language Processing: <br>
+Conversional: Nvidia/NeMo. <br>
 
 
 Middleware/Session Layer.
