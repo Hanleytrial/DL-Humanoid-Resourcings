@@ -51,6 +51,9 @@ LWM2M:<br>
 C library: Anjay.<br>
 Node.js search from NPM.<br>
 
+Mechanism
+====
+8 DoF
 
 Components for common
 ====
