@@ -31,6 +31,7 @@ MCU
 ====
 Nvidia Jetson series. <br>
 Raspberry series. <br>
+STM32 series on Mbed. <br>
 Customization with ARM core.<br>
 
 Humanoid Firmware (The BIOS of Humanoid's motherboard)
