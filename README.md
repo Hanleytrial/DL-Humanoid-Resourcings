@@ -110,7 +110,7 @@ Application layer (UXUI for User Terminal, Phone App Control and Monitoring)
 ====
 Godot Engine.<br>
 
-Metal Shaping 板金成形.
+Metal Shaping 板金成形.  (手工/數控)
 ====
 Compound curve.<br>
 
