@@ -43,7 +43,7 @@ Motor Drive Control: <br>
 PCB Layout: <br>
 
 
-Humanoid Firmware (The BIOS of Humanoid's motherboard)
+Humanoid Firmware (The BIOS  Humanoid's motherboard)
 ====
 
 
