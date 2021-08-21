@@ -1,4 +1,4 @@
-# Humanoid-resourcing-and-one-of-its-subjective-descrition. 類人主觀描述及相關資源筆記
+# Humanoid-resourcing-and-one-of-its-subjective-description. 類人主觀描述及相關資源筆記
 開機時間
 ====
 西元2044<br>
