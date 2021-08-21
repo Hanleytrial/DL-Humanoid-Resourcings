@@ -1,4 +1,4 @@
-# Humanoid-resourcing-and-its-subjective-descrition. 類人主觀描述及相關資源筆記
+# Humanoid-resourcing-and-one-of-its-subjective-descrition. 類人主觀描述及相關資源筆記
 開機時間
 ====
 西元2044<br>
@@ -22,7 +22,7 @@ h.<br>
 DFRobot.<br>
 蝦皮.<br>
 
-Books
+Books/References
 ====
 圖解馬達入門. <br>
 機構學 版五. <br>
