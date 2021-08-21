@@ -50,6 +50,7 @@ Customization with ARM core.<br>
 
 MCU-OS
 ====
+Family: Unix
 目的: 統一OS標準及協定.
 
 Sound Input/Output
