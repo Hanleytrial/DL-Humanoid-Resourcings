@@ -1,4 +1,4 @@
-# Humanoid-resourcing-and-its-subjective-descrition. 類人描述資源筆記
+# Humanoid-resourcing-and-its-subjective-descrition. 類人主觀描述及相關資源筆記
 開機時間
 ====
 西元2044<br>
@@ -44,7 +44,7 @@ Sound Input/Output
 電機/電控硬體 (*)
 ====
 Motor Drive Control: <br>
-PCB Layout: <br>
+PCB Layout of Motherboard: <br>
 
 
 Humanoid Firmware (The BIOS  Humanoid's motherboard)
@@ -62,7 +62,7 @@ Middleware/Session Layer.
 ====
 ROS.<br>
 Protocol: lwm2m<br>
-LWM2M:<br>
+lwm2m:<br>
 C library: Anjay.<br>
 Node.js search from NPM.<br>
 
@@ -70,7 +70,7 @@ Mechanism
 ====
 8 DoF
 
-Components in common
+Components in common (電氣元件...)
 ====
 Motors.<br>
 Torque.<br>
@@ -147,6 +147,7 @@ Legal Statement.
 
 驗證 Testimony.
 ====
+防水.
 
 測試地
 ====
