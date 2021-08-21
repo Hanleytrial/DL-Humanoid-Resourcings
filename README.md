@@ -33,10 +33,14 @@ Cyber-Physical System.<br>
 
 MCU
 ====
-Nvidia Jetson series. <br>
-Raspberry series. <br>
+Nvidia Jetson series. (Ready-to-use OS) <br>
+Raspberry series. (Ready-to-use OS) <br>
 STM32 series on Mbed. <br>
 Customization with ARM core.<br>
+
+MCU-OS
+====
+目的: 統一OS標準及協定.
 
 Sound Input/Output
 ====
