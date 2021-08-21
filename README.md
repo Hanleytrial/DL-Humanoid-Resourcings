@@ -9,6 +9,7 @@
 All-in-one with mode selection.
 
 軟硬體思維
+====
 軟: Agile by Martin.
 硬: Upgradable modular design.
 
