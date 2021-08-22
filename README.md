@@ -139,7 +139,7 @@ Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Con
 ====
 Godot Engine.<br>
 
-Metal Shaping 板金成形.  (手工(無須開模)/模具/數控 <= 大小件區別)
+Metal Shaping 板金成形.  (手工(無須開模/過程慢)/模具/數控 <= 大小件區別)
 ====
 Compound curve.<br>
 
