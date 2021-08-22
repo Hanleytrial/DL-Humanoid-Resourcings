@@ -104,7 +104,7 @@ Interconnects.<br>
 Sensors
 ====
 Hardness detection.<br>
-Surrounding : RPiLader, TF2.<br>
+Surrounding Situation Detection: RPiLader, TF2.<br>
 
 Computer Vision
 ====
