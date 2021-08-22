@@ -53,7 +53,7 @@ MCU-OS
 Family: Unix <br>
 目的: 統一OS標準及協定.<br>
 
-Sound Input/Output
+Sound Input/Output (內建音響)
 ====
 
 電機/電控硬體 (*)
