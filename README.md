@@ -135,11 +135,11 @@ Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
 
 
-Application layer (UXUI for User Terminal, Phone App Control and Monitoring)
+Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
 ====
 Godot Engine.<br>
 
-Metal Shaping 板金成形.  (手工(無須開模)/數控)
+Metal Shaping 板金成形.  (手工(無須開模)/模具/數控 <= 大小件區別)
 ====
 Compound curve.<br>
 
@@ -166,5 +166,5 @@ Legal Statement.
 
 測試地
 ====
-農地. (民以食為天)
+農地/海邊 (民以食為天)
 
