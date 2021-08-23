@@ -99,6 +99,7 @@ Ad Hoc module.<br>
 High-voltage connector and motors.<br>
 Motor Drivers.<br>
 Interconnects.<br>
+DC-DC boost converter.<br>
 三軸加速度傳感器.<br>
 
 Sensors
