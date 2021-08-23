@@ -1,8 +1,8 @@
 # Humanoid-resourcing-and-one-of-its-subjective-description. 類人主觀描述及相關資源筆記
 開機時間
 ====
-西元2044<br>
-開發進程: 非常緩慢.<br>
+西元2044. <br>
+開發進程: 非常緩慢. <br>
 
 思想
 ====
@@ -10,7 +10,7 @@ All-in-one with mode selection.
 
 軟硬體思維
 ====
-軟: Agile by Martin.
+軟: Agile Software Development by Martin.
 硬: Upgradable modular design.
 
 Sketch (Draw and CAD)
@@ -41,7 +41,7 @@ Terms
 ====
 Cyber-Physical System.<br>
 
-MCU
+MPU
 ====
 Nvidia Jetson series. (Ready-to-use OS) <br>
 Raspberry series. (Ready-to-use OS) <br>
