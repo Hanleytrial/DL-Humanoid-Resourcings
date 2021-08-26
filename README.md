@@ -45,6 +45,7 @@ MPU
 ====
 Nvidia Jetson series. (Ready-to-use OS) <br>
 Raspberry series. (Ready-to-use OS) <br>
+Banana series (Similar to Raspberry.) <br>
 STM32 series on Mbed. <br>
 Customization with ARM core.<br>
 
