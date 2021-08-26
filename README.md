@@ -41,7 +41,7 @@ Terms
 ====
 Cyber-Physical System.<br>
 
-MPU
+MPU (Mini Computer)
 ====
 Nvidia Jetson series. (Ready-to-use OS) <br>
 Raspberry series. (Ready-to-use OS) <br>
