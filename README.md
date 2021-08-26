@@ -45,7 +45,7 @@ MPU (Mini Computer)
 ====
 Nvidia Jetson series. (Ready-to-use OS) <br>
 Raspberry series. (Ready-to-use OS) <br>
-Banana series (Similar to Raspberry.) <br>
+Banana series (Alternative to Raspberry. More Practical) <br>
 STM32 series on Mbed. <br>
 Customization with ARM core.<br>
 
