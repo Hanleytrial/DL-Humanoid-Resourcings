@@ -135,7 +135,7 @@ Basic action and land mobile in default. <br>
 Cloud mode for system upgrade and update. <br>
 Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
-Industrial production mode.<br>
+Industrial production of electronics components.<br>
 
 
 Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
