@@ -49,7 +49,7 @@ Banana series (Alternative to Raspberry. More Practical) <br>
 STM32 series on Mbed. <br>
 Customization with ARM core.<br>
 
-MCU-OS
+MPU-OS
 ====
 Family: Unix <br>
 目的: 統一OS標準及協定.<br>
