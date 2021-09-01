@@ -156,6 +156,8 @@ Hard:<br>
 
 Soft:<br>
 
+Components<br>
+
 Bipedal Part.
 ====
 Motors: <br>
