@@ -175,6 +175,7 @@ Temporal reside (臨時住屋模式)(雨水回收與儲水系統+太陽能電力
 Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
 ====
 Godot Engine.<br>
+Krita for original icon sketch.<br>
 
 Metal Shaping 板金成形.  (手工(無須開模/過程慢)/模具/數控 <= 大小件區別)
 ====
