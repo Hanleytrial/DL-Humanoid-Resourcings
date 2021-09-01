@@ -8,6 +8,10 @@
 ====
 All-in-one with mode selection.
 
+生產
+====
+批量/限量/大量.
+
 軟硬體思維
 ====
 軟: Agile Software Development by Martin.
