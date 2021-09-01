@@ -156,6 +156,7 @@ Hard:<br>
 
 Soft:<br>
 
+Cp semi
 Components<br>
 
 Bipedal Part.
@@ -210,6 +211,6 @@ Legal Statement.
 
 測試地
 ====
-農地/海邊 (民以食為天)
+農地/海邊.<br>
 海景屋
 
