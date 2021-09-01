@@ -49,7 +49,7 @@ Books/References/Subjects
 
 Terms
 ====
-Cyber-Physical System. (李先進 著)<br>
+Cyber-Physical System. 虛擬網路實體物理系統 (李先進 著)<br>
 
 MPU (Mini Computer)
 ====
