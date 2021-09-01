@@ -33,6 +33,7 @@ Site
 硬件打樣預估成本(物料成本, 不含人事, 軟體)
 ====
 2021年現鈔價值的新台幣3萬5千元.<br>
+便宜設計端.<br>
 
 Brand, Sales, and Manufacturer
 ====
@@ -71,6 +72,10 @@ Sound Input/Output (內建音響)
 Motor Drive Control: <br>
 PCB Layout of Motherboard: <br>
 
+Transport layer
+====
+Websocket. 
+
 
 Humanoid Firmware (The BIOS  Humanoid's motherboard)
 ====
@@ -93,6 +98,7 @@ Middleware/Session Layer.
 ====
 ROS.<br>
 Protocol: lwm2m<br>
+Websocket.<br>
 lwm2m:<br>
 C library: Anjay.<br>
 Node.js search from NPM.<br>
@@ -116,6 +122,7 @@ High-voltage connector and motors.<br>
 Motor Drivers.<br>
 Interconnects.<br>
 DC-DC boost converter.<br>
+Step-up.<br>
 三軸加速度傳感器.<br>
 Transmission line.<br>
 
@@ -152,7 +159,7 @@ Transformation 模式
 ====
 Edge mode in default. (Better for Privacy Protection) <br>
 Basic action and land mobile (Fast walk \ Slow walk) in default. <br>
-Cloud mode for system upgrade and update. <br>
+Cloud mode for system upgrade and update. (C/S mode) <br>
 Hygiene Career mode. (清潔事業模式) <br>
 Cooker mode. (Normal \ Chief) <br>
 Drone mode. 螺旋翼/網格 (飛行模式/Drone Mode) <br>
