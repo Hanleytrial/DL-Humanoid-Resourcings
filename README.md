@@ -147,8 +147,9 @@ Edge mode in default. (Better for Privacy Protection) <br>
 Basic action and land mobile (Fast walk \ Slow walk) in default. <br>
 Cloud mode for system upgrade and update. <br>
 Hygiene Career mode. (清潔事業模式) <br>
-螺旋翼/網格 (飛行模式/Drone Mode) <br>
-Industrial production/operation of components.<br>
+Cooker mode. (Normal \ Chief) <br>
+Drone mode. 螺旋翼/網格 (飛行模式/Drone Mode) <br>
+Industrial production/operation of components and 紡織製衣.<br>
 
 
 Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
