@@ -6,7 +6,7 @@
 
 思想
 ====
-啟動機器人取代食衣住行育樂個人需求.
+啟動機器人取代食衣住行育樂個人需求.<br>
 All-in-one with mode selection.
 
 生產
@@ -82,6 +82,12 @@ Deep Learning to multiple features with Pytorch. <br>
 Natural Language Processing: <br>
 Conversional: Nvidia/NeMo. <br>
 
+
+Power Supplier
+====
+太陽能板<br>
+LiPo電池<br>
+固態電池<br>
 
 Middleware/Session Layer.
 ====
