@@ -6,6 +6,7 @@
 
 思想
 ====
+啟動機器人取代食衣住行育樂個人需求.
 All-in-one with mode selection.
 
 生產
@@ -150,6 +151,9 @@ Hygiene Career mode. (清潔事業模式) <br>
 Cooker mode. (Normal \ Chief) <br>
 Drone mode. 螺旋翼/網格 (飛行模式/Drone Mode) <br>
 Industrial production/operation of components and 紡織製衣.<br>
+Pharmacist Mode. (配藥建議模式) <br>
+Temporal reside (臨時住屋模式)(雨水+太陽能電力) <br>
+
 
 
 Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
@@ -184,4 +188,5 @@ Legal Statement.
 測試地
 ====
 農地/海邊 (民以食為天)
+海景屋
 
