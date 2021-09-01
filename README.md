@@ -83,7 +83,7 @@ Natural Language Processing: <br>
 Conversional: Nvidia/NeMo. <br>
 
 
-Power Supplier
+Power Supply
 ====
 太陽能板<br>
 LiPo電池<br>
