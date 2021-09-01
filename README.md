@@ -70,7 +70,7 @@ Sound Input/Output (內建音響)
 電機/電控硬體 (*)
 ====
 Motor Drive Control: <br>
-PCB Layout of Motherboard: <br>
+PCB Layout of Motherboard of every single part: <br>
 
 Transport layer
 ====
