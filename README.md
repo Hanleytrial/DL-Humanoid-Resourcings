@@ -103,6 +103,9 @@ lwm2m:<br>
 C library: Anjay.<br>
 Node.js search from NPM.<br>
 
+Ad Hoc for p2p communication of robots
+====
+
 Mechanism
 ====
 8 DoF
