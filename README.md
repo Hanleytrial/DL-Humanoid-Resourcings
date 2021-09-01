@@ -10,7 +10,7 @@ All-in-one with mode selection.
 
 生產
 ====
-批量/限量/大量.
+批量/限量
 
 軟硬體思維
 ====
