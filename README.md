@@ -207,7 +207,7 @@ Legal Statement.
 
 驗證 Testimony.
 ====
-防水.
+防水
 
 測試地
 ====
