@@ -144,7 +144,7 @@ Sensor: <br>
 Transformation 模式
 ====
 Edge mode in default. (Better for Privacy Protection) <br>
-Basic action and land mobile in default. <br>
+Basic action and land mobile (Fast walk \ Slow walk) in default. <br>
 Cloud mode for system upgrade and update. <br>
 Hygiene Career mode. (清潔事業模式) <br>
 螺旋翼/網格 (飛行模式/Drone Mode) <br>
