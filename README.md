@@ -35,7 +35,7 @@ Site
 2021年現鈔價值的新台幣3萬5千元.<br>
 設計端(腦力)便宜化, 供應鏈均衡化導向.<br>
 
-Brand, Sales, and Manufacturer
+Brand, Retails, and Manufacturer
 ====
 Digi-key.<br>
 h.<br>
@@ -89,11 +89,12 @@ Natural Language Processing: <br>
 Conversional: Nvidia/NeMo. <br>
 
 
-Power Supply
+Power Supply (Battery)
 ====
 太陽能板<br>
 LiPo電池<br>
 固態電池<br>
+納
 
 Middleware/Session Layer.
 ====
