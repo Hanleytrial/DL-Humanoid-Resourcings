@@ -86,7 +86,7 @@ Transport layer
 Websocket. 
 
 
-Humanoid Firmware (The BIOS  Humanoid's motherboard)
+Humanoid firmware (The BIOS  Humanoid's motherboard)
 ====
 
 
