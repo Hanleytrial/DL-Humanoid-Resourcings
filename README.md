@@ -6,8 +6,10 @@
 
 思想
 ====
-配合自然環境, 啟動機器人取代食衣住行育樂個人需求.<br>
-All-in-one with mode selection.
+配合自然環境, 啟動機器人取代食衣住行育樂"個人"需求.<br>
+All-in-one with mode selection.<br>
+單一產品, 盒裝.<br>
+可升級維護可讀的模塊.<br>
 
 生產
 ====
