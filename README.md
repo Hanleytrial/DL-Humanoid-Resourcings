@@ -25,7 +25,8 @@ All-in-one with mode selection.<br>
 
 軟硬體思維
 ====
-軟: Agile Software Development by Martin.
+軟: Agile Software Development by Martin.<br>
+韌: <br>
 硬: Upgradable modular design.
 
 Sketch (Draw and CAD)
