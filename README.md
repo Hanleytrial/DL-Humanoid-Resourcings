@@ -1,7 +1,7 @@
 # Humanoid-resourcing-and-one-of-its-subjective-description. 類人主觀描述及相關資源筆記
 開機時間
 ====
-西元2044. <br>
+西元2045. <br>
 開發進程: 慢. <br>
 
 思想
@@ -148,6 +148,7 @@ Actuator
 Sensors
 ====
 Hardness detection.<br>
+3D Sensing.<br>
 Surrounding Situation Detection: RPiLader, TF2.<br>
 
 Computer Vision
