@@ -182,9 +182,9 @@ Worker mode.(搬運工模式) <br>
 Cooker mode. (Normal \ Chief) <br>
 Drone mode. 螺旋翼/網格 (飛行模式/Drone Mode) <br>
 Industrial production/operation of components and 紡織製衣.<br>
-Pharmacist Mode. (配藥建議模式) <br>
-Temporal reside (臨時住屋模式)(雨水回收與儲水系統+太陽能電力) <br>
-Farm Mode.<br>
+Pharmacist Assist mode. (配藥助理模式) <br>
+Temporal reside mode (臨時住屋模式)(雨水回收與儲水系統+太陽能電力) <br>
+Farming Mode.<br>
 
 
 Application layer (UXUI for User Terminal, All-Platfrom(iOS, Android...) App Control and Monitoring)
