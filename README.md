@@ -202,6 +202,7 @@ Compound curve.<br>
 Objective 目的.
 ====
 依時間順序.<br>
+Simulate.<br>
 In/Outdoor Hygiene (清潔) Services.<br>
 Simple Cook Services.<br>
 Street Walk.<br>
