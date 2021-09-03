@@ -14,6 +14,7 @@ All-in-one with mode selection.<br>
 平均工員能力.<br>
 高效連束, 捨去螢幕成本.<br>
 相對省電.<br>
+開源.<br>
 
 生產
 ====
