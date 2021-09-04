@@ -15,10 +15,11 @@ All-in-one with mode selection.<br>
 高效連束, 捨去螢幕成本.<br>
 相對省電.<br>
 開源.<br>
+縝密.<br>
 
 Simulation
 ====
-ngspice<br>
+ngspice/KiCad<br>
 Gazebo Sim<br>
 
 生產
@@ -57,6 +58,7 @@ DFRobot.<br>
 
 Books/References/Subjects
 ====
+中英化數高數物.<br>
 圖解馬達入門. <br>
 機構學 版五. <br>
 
@@ -91,7 +93,7 @@ Transport layer
 Websocket. 
 
 
-Humanoid firmware (The BIOS  Humanoid's motherboard)
+Humanoid firmware (The BIOS/UEFI  Humanoid's motherboard)
 ====
 
 
@@ -107,7 +109,7 @@ Power Supply (Battery)
 太陽能板<br>
 LiPo電池<br>
 固態電池<br>
-納
+納離子
 
 Middleware/Session Layer.
 ====
