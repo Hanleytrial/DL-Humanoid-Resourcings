@@ -16,6 +16,11 @@ All-in-one with mode selection.<br>
 相對省電.<br>
 開源.<br>
 縝密.<br>
+Xiaomi Cyberdog Extension.<br>
+
+Xiaomi Cyberdog Extension instead of bipedal leg.
+====
+Description.<br>
 
 Simulation
 ====
