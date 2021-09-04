@@ -225,6 +225,10 @@ Documents:<br>
 Legal Statement.
 ====
 
+Other Org and 3rd parties
+====
+OpenAI API.
+
 驗證 Testimony.
 ====
 防水
