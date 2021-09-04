@@ -27,9 +27,11 @@ Simulation
 ngspice/KiCad<br>
 Gazebo Sim<br>
 
-Industrial desing
+Industrial design
 ====
 
+機電一體化研究
+====
 
 生產
 ====
