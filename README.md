@@ -165,7 +165,8 @@ Actuator
 
 空間識別 3D Sensing
 ====
-VCSEL 模組: 露天
+VCSEL 模組: 露天 <br>
+Rpi Lidar A1, A2, A3.<br>
 
 Sensors
 ====
