@@ -29,6 +29,7 @@ Gazebo Sim<br>
 
 Industrial design
 ====
+Lightweight, actuator numbers.<br>
 
 機電一體化研究
 ====
