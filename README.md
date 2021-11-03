@@ -56,6 +56,10 @@ Lightweight, actuator numbers.<br>
 Sketch (Draw and CAD)
 ====
 
+網際網路傳輸層
+====
+NDN vs TCP
+https://www.bcs.org/articles-opinion-and-research/tcp-ip-versus-ndn/
 
 Site
 ====
