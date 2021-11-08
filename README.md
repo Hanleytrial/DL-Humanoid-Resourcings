@@ -19,6 +19,7 @@ All-in-one with mode selection.<br>
 開源.<br>
 縝密.<br>
 Xiaomi Cyberdog Extension available.<br>
+服務三歲孩童<>
 
 Xiaomi Cyberdog Extension instead of bipedal leg.
 ====
