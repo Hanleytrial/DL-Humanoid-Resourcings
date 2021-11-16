@@ -1,7 +1,7 @@
 # Humanoid-resourcing-and-one-of-its-subjective-description. (Beginning) 類人主觀描述及相關資源筆記
 開機時間
 ====
-西元2045. <br>
+西元2039. <br>
 開發進程: 慢. <br>
 縮小元件範疇至單一元器件量造 <br>
 不同於Xiaomi的雙足.<>
@@ -19,7 +19,8 @@ All-in-one with mode selection.<br>
 開源.<br>
 縝密.<br>
 Xiaomi Cyberdog Extension available.<br>
-服務三歲孩童<>
+服務三歲孩童
+
 
 Xiaomi Cyberdog Extension instead of bipedal leg.
 ====
@@ -97,6 +98,8 @@ Raspberry series. (Ready-to-use OS) <br>
 Banana series (Alternative to Raspberry. More Practical) <br>
 STM32 series on Mbed. <br>
 Customization with ARM core.<br>
+
+MPU9250 九軸姿態 加速度 陀螺儀 指南針磁場模組 X00313<br>
 
 MPU-OS
 ====
