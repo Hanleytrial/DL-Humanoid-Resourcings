@@ -106,8 +106,9 @@ MPU-OS
 Family: Unix <br>
 目的: 統一OS標準及協定.<br>
 
-Sound Input/Output (內建音響)
+Speaker (內建音響)
 ====
+Common.<br>
 
 電機/電控硬體 (*)
 ====
