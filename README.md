@@ -20,6 +20,7 @@ All-in-one with mode selection.<br>
 縝密.<br>
 Xiaomi Cyberdog Extension available.<br>
 服務三歲孩童
+電能調配機制
 
 
 Xiaomi Cyberdog Extension instead of bipedal leg.
