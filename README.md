@@ -93,7 +93,7 @@ Terms
 Cyber-Physical System. 虛擬網路實體物理系統 <br>
 https://en.wikipedia.org/wiki/Cyber-physical_system
 
-MCU (Mini Computer)
+MCU (Mini Computers)
 ====
 Nvidia Jetson series. (Ready-to-use OS) <br>
 Raspberry series. (Ready-to-use OS) <br>
