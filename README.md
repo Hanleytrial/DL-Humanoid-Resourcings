@@ -24,6 +24,8 @@ Xiaomi Cyberdog Extension available.<br>
 服務三歲孩童
 電能調配機制
 
+金屬外殼
+====
 
 Xiaomi Cyberdog Extension instead of bipedal leg.
 ====
