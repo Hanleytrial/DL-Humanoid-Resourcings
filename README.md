@@ -1,5 +1,5 @@
 # Humanoid-resourcing-and-one-of-its-subjective-description-and-note. 類人主觀描述及相關資源筆記
-開機時間
+硬體開機時間
 ====
 西元 2050 <br>
 進程: 慢. <br>
