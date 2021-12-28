@@ -1,4 +1,4 @@
-# Humanoid-resourcing-and-one-of-its-subjective-description-and-note. 類人主觀描述及相關資源筆記
+# Humanoid-referring-standard-resourcing-and-one-of-its-subjective-description-and-note. 類人主觀描述及相關資源筆記
 硬體開機時間
 ====
 西元 2050 <br>
